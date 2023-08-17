@@ -11,7 +11,6 @@ body{
     text-align: center;
 }
 h2{
-    color: black;
     text-align: center;
     margin-bottom: 20px;
     font-size: 40px;
@@ -48,7 +47,6 @@ h2{
 #btn, input{
     padding: 12px 10px;
     border-radius: 5px;
-    outline: none;
     border: none;
 }
 input{
